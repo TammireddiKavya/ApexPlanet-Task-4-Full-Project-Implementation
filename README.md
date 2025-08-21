@@ -17,3 +17,5 @@ Built a responsive and interactive web interface from scratch.
 OUTPUT:
 
 <img width="1284" height="902" alt="Image" src="https://github.com/user-attachments/assets/fe09926a-68a8-42d9-8247-8fb63a0598d0" />
+
+<img width="1231" height="214" alt="Image" src="https://github.com/user-attachments/assets/9e75914a-6b06-403b-ab8d-eca253b961c6" />
